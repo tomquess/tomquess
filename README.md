@@ -4,7 +4,7 @@
 
 <h3 align="center">👨‍💻 Computer Science and Econometrics student @University of Gdańsk </h3>
 
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=tomquess)
 
 <p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 22 | Frontend Developer | Aspiring Computer Programmer | Doing what i can to understand my code.</p>
 
