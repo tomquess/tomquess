@@ -8,7 +8,7 @@
 
 <p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 23 | Frontend Developer | Aspiring Computer Programmer | Doing what i can to understand my code.</p>
 
-- 🌱 I’m currently learning **Javascript, C#, .NET, Angular, etc.**
+- 🌱 I’m currently learning **Javascript, Angular, C#, .NET**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/tomquess?tab=repositories)
 
