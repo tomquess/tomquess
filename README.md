@@ -6,7 +6,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tomquess)
 
-<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 23 | Frontend Developer | Aspiring Computer Programmer | Doing what i can to understand my code.</p>
+<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 24 | Frontend Developer | Aspiring Computer Programmer | Doing what i can to understand my code.</p>
 
 - 🌱 I’m currently learning **Javascript, Angular, C#, .NET**
 
